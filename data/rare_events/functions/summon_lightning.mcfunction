@@ -1,0 +1,17 @@
+summon minecraft:lightning_bolt ~ ~ ~
+summon minecraft:lightning_bolt ~5 ~ ~5
+summon minecraft:lightning_bolt ~-5 ~ ~-5
+summon minecraft:lightning_bolt ~10 ~ ~-10
+summon minecraft:lightning_bolt ~-10 ~ ~10
+summon minecraft:lightning_bolt ~15 ~ ~15
+summon minecraft:lightning_bolt ~-15 ~ ~-15
+summon minecraft:lightning_bolt ~3 ~ ~-8
+summon minecraft:lightning_bolt ~-7 ~ ~12
+summon minecraft:lightning_bolt ~20 ~ ~20
+summon minecraft:lightning_bolt ~-20 ~ ~-20
+summon minecraft:lightning_bolt ~25 ~ ~-25
+summon minecraft:lightning_bolt ~-25 ~ ~25
+summon minecraft:lightning_bolt ~30 ~ ~30
+summon minecraft:lightning_bolt ~-30 ~ ~-30
+summon minecraft:lightning_bolt ~12 ~ ~18
+summon minecraft:lightning_bolt ~-18 ~ ~-12
