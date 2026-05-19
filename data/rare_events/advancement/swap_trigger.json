@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "swapped_item": {
+      "trigger": "minecraft:player_inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "slots": {
+                "weapon.offhand": {
+                  "count": {
+                    "min": 1
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "rare_events:f_key_pressed"
+  }
+}
