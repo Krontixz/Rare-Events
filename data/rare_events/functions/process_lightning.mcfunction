@@ -1,0 +1,5 @@
+execute at @s run function rare_events:strike_tier_1 with macro $(pos)
+execute if score #temp rare_events matches 2..5 at @s run function rare_events:strike_tier_2 with macro $(pos)
+execute if score #temp rare_events matches 3..5 at @s run function rare_events:strike_tier_3 with macro $(pos)
+execute if score #temp rare_events matches 4..5 at @s run function rare_events:strike_tier_4 with macro $(pos)
+execute if score #temp rare_events matches 5 at @s run function rare_events:strike_tier_5 with macro $(pos)
