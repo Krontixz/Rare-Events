@@ -1,0 +1,15 @@
+execute at @s run summon minecraft:lightning_bolt ~11 ~ ~11
+execute at @s run summon minecraft:lightning_bolt ~-11 ~ ~-11
+execute at @s run summon minecraft:lightning_bolt ~12 ~ ~-6
+execute at @s run summon minecraft:lightning_bolt ~-6 ~ ~12
+execute at @s run summon minecraft:lightning_bolt ~13 ~ ~13
+execute at @s run summon minecraft:lightning_bolt ~-13 ~ ~-13
+execute at @s run summon minecraft:lightning_bolt ~14 ~ ~-14
+execute at @s run summon minecraft:lightning_bolt ~-14 ~ ~14
+execute at @s run summon minecraft:lightning_bolt ~15 ~ ~
+execute at @s run summon minecraft:lightning_bolt ~ ~ ~15
+execute at @s run summon minecraft:lightning_bolt ~8 ~ ~-12
+execute at @s run summon minecraft:lightning_bolt ~-12 ~ ~8
+execute at @s run summon minecraft:lightning_bolt ~9 ~ ~9
+execute at @s run summon minecraft:lightning_bolt ~-9 ~ ~-9
+execute at @s run summon minecraft:lightning_bolt ~10 ~ ~-10
